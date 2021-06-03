@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The man of destiny's hard fortune; or, Squire Ketch's declaration Concerning his late confinement in the Kings-Bench and Marshalsea vvhereby his hopeful harvest was like to have been blasted. Together vvith his happy deliverance and promising prospect of encreasing trade, to the great joy of himself and his magnificent family. And several choice observations political and moral, relating to the present juncture of his eminences arduous affairs. With allowance.</title>
+            <author>Ketch, Jack, d. 1686.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25459</idno><idno type="EEBO-CITATION">99828858</idno>
+  <idno type="VID">207022</idno>
+  <idno type="EEBO-PROQUEST">2248496127</idno>
+  
+            <idno type="STC">Wing K355</idno>
+            <idno type="PROQUEST">99828858</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828858e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1970:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The man of destiny's hard fortune; or, Squire Ketch's declaration Concerning his late confinement in the Kings-Bench and Marshalsea vvhereby his hopeful harvest was like to have been blasted. Together vvith his happy deliverance and promising prospect of encreasing trade, to the great joy of himself and his magnificent family. And several choice observations political and moral, relating to the present juncture of his eminences arduous affairs. With allowance.</title>
+                  <author>Ketch, Jack, d. 1686.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Jack Ketch.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207022:1"/>
+            <pb facs="tcp:207022:1"/>
+            <p>
+               <hi>The Man of Destiny's hard Fortune;</hi> OR, Squire Ketch's DECLARATION.</p>
+            <p>CONCERNING His late Confinement in the <hi>Kings-Bench</hi> and <hi>Marshalsea.</hi>
+            </p>
+            <p>VVhereby his hopeful Harvest was like to have been blasted.</p>
+            <p>TOGETHER VVith his happy deliverance and promising prospect of encreasing Trade, to the great joy of himself and his magnificent Family.</p>
+            <p>AND Several choice Observations Political and Moral, re<g ref="char:EOLhyphen"/>lating to the present juncture of his Eminences arduous Affairs.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>T. M.</hi> 1679.</p>
+            <pb facs="tcp:207022:2"/>
+            <pb facs="tcp:207022:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207022:3"/>
+            <pb n="3" facs="tcp:207022:3"/>
+            <head>THE Man of Destiny's hard FORTUNE; OR, Squire Ketch's DECLARATION.</head>
+            <p>AFTER such a multitude of signal <hi>good Services</hi> performed by my redoubted hand, so many <hi>Heros</hi> vanquished, so many <hi>di<g ref="char:EOLhyphen"/>stressed Ladies</hi> put out of their pain; La<g ref="char:EOLhyphen"/>bours undertook beyond the skill of <hi>Dun,</hi> or cou<g ref="char:EOLhyphen"/>rage
+<pb n="4" facs="tcp:207022:4"/> of <hi>Hercules, Monsters</hi> subdued more mischie<g ref="char:EOLhyphen"/>vous than ever Saint <hi>George</hi> fought with, or Sir <hi>John Mandevil</hi> wrote of; after so many <hi>Traytors</hi> barr'd from telling of <hi>Tales,</hi> (no small Obligation to their Friends and Accomplices left behind) so many happy Divorces legally made between the <hi>howling</hi> Spouse and the <hi>smiling</hi> Husband, the <hi>wry-neckt</hi> Hus<g ref="char:EOLhyphen"/>band and the <hi>well-pleased</hi> Spouse, dissolving a <hi>Westminster Wedding</hi> with the laudable Ceremony of <hi>White-Gloves,</hi> and a <hi>Hempen Collar</hi> for <hi>Mourning;</hi> after these and a thousand other meritorious At<g ref="char:EOLhyphen"/>chievments, shall the famous, the well-known, the redoutable, the dreadful <hi>Squire Ketch,</hi> Death's Har<g ref="char:EOLhyphen"/>binger, <hi>Pluto</hi>'s Van-courrier, Vice-roy of Fate, and sole Monarch of the Triple Throne, now tamely be <hi>Catch-pol'd, Nabb'd, spirited, Shoulder-dabb'd, En<g ref="char:EOLhyphen"/>chanted, Lavender'd,</hi> and laid up in <hi>pickle</hi> in one of the Devil's <hi>Pepper-boxes?</hi> Shall I that have made out so many <hi>Habeas Corpus</hi>'s not returnable till Doomsday; put so many hundreds to the <hi>Grand Out-lawry,</hi> which all the <hi>Justice-splitters</hi> between <hi>Chancery-lane</hi> and Hell are never able to reverse; now truckle to the Jurisdiction of a Rascally sneaking <hi>Bum</hi> and his <hi>Captains.</hi> How durst the Varlets, know<g ref="char:EOLhyphen"/>ing their own merits, attach my venerable person, without dreading <hi>Revenge,</hi> when <hi>Justice</hi> ere long shall submit them to my mercy? Lies it not in the power of my Art to cure all Diseases, of which our impudent Quacks, in their lying Bills, only pretend the Remedy? Have not I the undoubted
+<pb n="5" facs="tcp:207022:4"/> Faculty of turning those into very handsome, well-favour'd Gentlemen in pittying Ladies Eyes, who all their lives were counted most ugly Rogues, be<g ref="char:EOLhyphen"/>fore they came into my <hi>Clutches?</hi> Nay, is not <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me</hi> beholding to my pains for many of her Saints, who must obtain from me a <hi>Certificate</hi> of their <hi>Merits,</hi> and get a <hi>passport</hi> from my Office, before the <hi>Pope,</hi> with all his Infallibility, will venture to <hi>Canonize</hi> them? And is it not a thousand pities a person of such Quality and Endowments should <hi>wither</hi> in a loathsome hole amongst <hi>Bankrupts</hi> and Tatterdemal<g ref="char:EOLhyphen"/>lions, converse with louzy <hi>Pump-suckers,</hi> or be made free of the Worshipful Company of <hi>Pegg<g ref="char:EOLhyphen"/>makers,</hi> when there are so many <hi>notable brave Fel<g ref="char:EOLhyphen"/>lows</hi> abroad that <hi>need</hi> and <hi>deserve</hi> his most intimate acquaintance? I shall never forget the <hi>Affronts</hi> put upon me by those saucy Companions in my late Cap<g ref="char:EOLhyphen"/>tivity; the jeers, the flouts, the thumps, and base usages I received from them: and why all this? because, forsooth, I was the <hi>Hangman;</hi> as if the Grand Executioner of Justice, that has done many a Gentleman a Courtesie, and hopes in due time to converse with others, were not Company good enough for such Raggamushins? But that which most of all vext my Guts, was the cause of my being impounded, and the unlucky time of it: The first was that ill favoured Crime, <hi>Suspition of Debt,</hi> which I hate for my part beyond all the seven <hi>deadly Sins;</hi> for most other Offences bring some <hi>Grist</hi> to my Mill, but what shall I get by Folks running into
+<pb n="6" facs="tcp:207022:5"/> other peoples Books? 'tis true your subtile Bank<g ref="char:EOLhyphen"/>rupts, that crack for thousands, and, like Nine-pins tip down half a dozen honest <hi>depending Tradesmen,</hi> crushing them, their Wives and Children, to the third and fourth Generation, with their fall, are in my simple Opinion as mischievous Vermine, as he that <hi>Mins</hi> a bung, or plays the Man-midwife to a big-bellyed Portmanteau on the high Pad; yet still give me the lofty generous Villain, that cries, The more danger the more honour; and will rather fright than wheadle Folks out of their Pence: Were it not for such high mettled Lads, what should poor <hi>Jack</hi> do for <hi>Coats, Cravats,</hi> and <hi>Perriwigs:</hi> But it was not only Debt, but on a most pitiful score too; had it been for <hi>Nappy Bub,</hi> or flaming <hi>Kill-Devil,</hi> I could have been content to have suffer<g ref="char:EOLhyphen"/>ed a short <hi>Martyrdom;</hi> but to be charged with two and twenty Pounds, and odd Farthings, for <hi>Milk,</hi> Oh abominable! The World sure will scandalize me for a <hi>Milk-sop,</hi> and think I fed like an old <hi>Brit<g ref="char:EOLhyphen"/>tain,</hi> on nothing but <hi>Cows-baubby,</hi> drink only Whey like a Swine, or stuff my Guts every day with Fools, White-pot, and Custard.</p>
+            <p>Then as to the Time, the Critical Time, not a long Vacation, but full Term, an opportunity for business under the most propitious Influences, for people of my profession, that had been known in the memory of Man; to be taken off from ones Em<g ref="char:EOLhyphen"/>ployment in such a juncture fretted me so, that I
+<pb n="7" facs="tcp:207022:5"/> was ready to bestow on my self a <hi>Cast of my Of<g ref="char:EOLhyphen"/>fice.</hi>
+            </p>
+            <p>
+               <hi>Alas! How many Crosses and Casualties are we poor</hi> Tradesmen <hi>lyable to? There have, within this twelve Monthes, above twenty dyed in my Debt, having never a Shirt on: Then a</hi> Burghlary <hi>was committed upon my Shop, and two of the principal</hi> A<g ref="char:EOLhyphen"/>partments <hi>of that ancient</hi> Edifice <hi>stoln away. Nay of late, because there began to be some small</hi> springlings of a Trade, <hi>the Rope-maker began to turn</hi> Extortioner, <hi>and swore he would raise the price of</hi> Halters; <hi>and a Ras<g ref="char:EOLhyphen"/>cally</hi> Popish Priest, <hi>that promised me five pound for some Relicks of a late</hi> Martyr, <hi>is run into</hi> Flanders, <hi>and left me in the lurch. But thank my</hi> Stars, <hi>I am got out of</hi> Limbo, <hi>and thought fit to signifie so much to the world, that all persons of Quality that have occasion to make use of me, may know where to find me: I hope I shall weather all my troubles, there shortly begins a Grand</hi> Mart <hi>in the</hi> Old-Bayly, <hi>and other Customers are coming on apace; If things fadge right, I doubt not but before</hi>
+               <pb n="8" facs="tcp:207022:6"/> Midsomer <hi>to have twenty Guinnies with an Apprentice, and, in a</hi> Calesh <hi>of my own, wait upon my well-beloved Sons in a Cart or Sledg, when they perform their last Pilgrimage to</hi> TYBURN.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207022:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
